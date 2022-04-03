@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "Project-backup.ipynb",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-04-03T02:17:08Z",
+    "created": 1648952228829,
+    "asset_id": "data_asset.Projectbackupipynb",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "Project-backup.ipynb",
+      "mime": "application/octet-stream",
+      "object_key": "../samples/Project-backup.ipynb",
+      "object_key_is_read_only": true,
+      "created_at": "2022-04-03T02:17:10Z",
+      "id": "31e673e2-24e2-489e-85b9-1eaa61e400e2",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

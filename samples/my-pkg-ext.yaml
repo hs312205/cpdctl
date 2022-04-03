@@ -1,0 +1,8 @@
+
+channels:
+  - defaults
+
+dependencies:
+  - pip:
+    - fuzzywuzzy
+

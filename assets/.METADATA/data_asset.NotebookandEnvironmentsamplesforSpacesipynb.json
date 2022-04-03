@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "Notebook-and-Environment-samples-for-Spaces.ipynb",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-04-03T02:17:08Z",
+    "created": 1648952228955,
+    "asset_id": "data_asset.NotebookandEnvironmentsamplesforSpacesipynb",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "Notebook-and-Environment-samples-for-Spaces.ipynb",
+      "mime": "application/octet-stream",
+      "object_key": "../samples/Notebook-and-Environment-samples-for-Spaces.ipynb",
+      "object_key_is_read_only": true,
+      "created_at": "2022-04-03T02:17:10Z",
+      "id": "3a9acbca-9fbc-4957-8a56-7996caffa0d3",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
